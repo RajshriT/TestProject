@@ -1,0 +1,68 @@
+2022-10-11 19:33:08,123  INFO [main] SauceDemo1:39 - Browser is opened
+2022-10-11 19:33:09,510  INFO [main] SauceDemo1:47 - Browser is maximized
+2022-10-11 19:33:22,141  INFO [main] SauceDemo1:52 - URL is opened
+2022-10-11 19:33:27,684  INFO [main] SauceDemo1:64 - Username is entered
+2022-10-11 19:33:28,067  INFO [main] SauceDemo1:67 - Password is entered
+2022-10-11 19:33:30,239  INFO [main] SauceDemo1:70 - Clicked on login button
+2022-10-11 19:33:40,450  INFO [main] SauceDemo1:39 - Browser is opened
+2022-10-11 19:33:40,583  INFO [main] SauceDemo1:47 - Browser is maximized
+2022-10-11 19:33:44,065  INFO [main] SauceDemo1:52 - URL is opened
+2022-10-11 19:33:44,460  INFO [main] SauceDemo1:64 - Username is entered
+2022-10-11 19:33:44,564  INFO [main] SauceDemo1:67 - Password is entered
+2022-10-11 19:33:44,831  INFO [main] SauceDemo1:70 - Clicked on login button
+2022-10-11 19:33:48,316  INFO [main] SauceDemo1:39 - Browser is opened
+2022-10-11 19:33:48,456  INFO [main] SauceDemo1:47 - Browser is maximized
+2022-10-11 19:33:50,942  INFO [main] SauceDemo1:52 - URL is opened
+2022-10-11 19:33:51,242  INFO [main] SauceDemo1:64 - Username is entered
+2022-10-11 19:33:51,394  INFO [main] SauceDemo1:67 - Password is entered
+2022-10-11 19:33:51,679  INFO [main] SauceDemo1:70 - Clicked on login button
+2022-10-11 19:47:36,876  INFO [main] SauceDemo1:39 - Browser is opened
+2022-10-11 19:47:37,058  INFO [main] SauceDemo1:47 - Browser is maximized
+2022-10-11 19:47:38,377  INFO [main] SauceDemo1:52 - URL is opened
+2022-10-11 19:47:40,254  INFO [main] SauceDemo1:64 - Username is entered
+2022-10-11 19:47:40,383  INFO [main] SauceDemo1:67 - Password is entered
+2022-10-11 19:47:40,915  INFO [main] SauceDemo1:70 - Clicked on login button
+2022-10-11 19:47:41,683  INFO [main] SauceDemo1:30 - apply the validation
+2022-10-11 19:47:44,703  INFO [main] SauceDemo1:39 - Browser is opened
+2022-10-11 19:47:44,831  INFO [main] SauceDemo1:47 - Browser is maximized
+2022-10-11 19:47:48,099  INFO [main] SauceDemo1:52 - URL is opened
+2022-10-11 19:47:48,459  INFO [main] SauceDemo1:64 - Username is entered
+2022-10-11 19:47:48,589  INFO [main] SauceDemo1:67 - Password is entered
+2022-10-11 19:47:48,826  INFO [main] SauceDemo1:70 - Clicked on login button
+2022-10-11 19:47:52,853  INFO [main] SauceDemo1:39 - Browser is opened
+2022-10-11 19:47:53,003  INFO [main] SauceDemo1:47 - Browser is maximized
+2022-10-11 19:47:55,821  INFO [main] SauceDemo1:52 - URL is opened
+2022-10-11 19:47:56,122  INFO [main] SauceDemo1:64 - Username is entered
+2022-10-11 19:47:56,235  INFO [main] SauceDemo1:67 - Password is entered
+2022-10-11 19:47:56,487  INFO [main] SauceDemo1:70 - Clicked on login button
+2022-10-11 19:47:58,296  INFO [main] SauceDemo1:39 - Browser is opened
+2022-10-11 19:47:58,548  INFO [main] SauceDemo1:47 - Browser is maximized
+2022-10-11 19:48:01,844  INFO [main] SauceDemo1:52 - URL is opened
+2022-10-11 19:48:02,188  INFO [main] SauceDemo1:64 - Username is entered
+2022-10-11 19:48:02,338  INFO [main] SauceDemo1:67 - Password is entered
+2022-10-11 19:48:02,600  INFO [main] SauceDemo1:70 - Clicked on login button
+2022-10-11 19:54:40,193  INFO [main] SauceDemo1:39 - Browser is opened
+2022-10-11 19:54:40,496  INFO [main] SauceDemo1:47 - Browser is maximized
+2022-10-11 19:54:42,579  INFO [main] SauceDemo1:52 - URL is opened
+2022-10-11 19:54:45,327  INFO [main] SauceDemo1:64 - Username is entered
+2022-10-11 19:54:45,470  INFO [main] SauceDemo1:67 - Password is entered
+2022-10-11 19:54:46,873  INFO [main] SauceDemo1:70 - Clicked on login button
+2022-10-11 19:54:47,904  INFO [main] SauceDemo1:30 - apply the validation
+2022-10-11 19:54:51,674  INFO [main] SauceDemo1:39 - Browser is opened
+2022-10-11 19:54:51,806  INFO [main] SauceDemo1:47 - Browser is maximized
+2022-10-11 19:54:54,726  INFO [main] SauceDemo1:52 - URL is opened
+2022-10-11 19:54:55,111  INFO [main] SauceDemo1:64 - Username is entered
+2022-10-11 19:54:55,242  INFO [main] SauceDemo1:67 - Password is entered
+2022-10-11 19:54:55,506  INFO [main] SauceDemo1:70 - Clicked on login button
+2022-10-11 19:54:59,868  INFO [main] SauceDemo1:39 - Browser is opened
+2022-10-11 19:54:59,998  INFO [main] SauceDemo1:47 - Browser is maximized
+2022-10-11 19:55:02,993  INFO [main] SauceDemo1:52 - URL is opened
+2022-10-11 19:55:03,341  INFO [main] SauceDemo1:64 - Username is entered
+2022-10-11 19:55:03,481  INFO [main] SauceDemo1:67 - Password is entered
+2022-10-11 19:55:03,775  INFO [main] SauceDemo1:70 - Clicked on login button
+2022-10-11 19:55:06,631  INFO [main] SauceDemo1:39 - Browser is opened
+2022-10-11 19:55:06,776  INFO [main] SauceDemo1:47 - Browser is maximized
+2022-10-11 19:55:09,858  INFO [main] SauceDemo1:52 - URL is opened
+2022-10-11 19:55:10,117  INFO [main] SauceDemo1:64 - Username is entered
+2022-10-11 19:55:10,221  INFO [main] SauceDemo1:67 - Password is entered
+2022-10-11 19:55:10,483  INFO [main] SauceDemo1:70 - Clicked on login button
